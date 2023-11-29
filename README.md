@@ -5,7 +5,7 @@
   <h3>
   Hi there,
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-    I'm Orji M C :computer: Software Engineer (Frontend)
+    I'm Orji Modestus C. :computer: Software Engineer (Frontend)
  </h3>
     
 </div>
